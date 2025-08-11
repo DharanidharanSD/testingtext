@@ -1,4 +1,0 @@
-const arr = ["dharani","hcl"]
-console.log(arr);
-diff bw http 1 vs http 2
-
